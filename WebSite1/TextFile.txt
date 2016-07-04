@@ -1,0 +1,44 @@
+﻿Project Description:
+
+This webpage is designed to allow you to enter any text that you wish to encrypt 
+and results in an encoded sentence. This page also acts in the converse way, by 
+entering an encoded sentence,you can decrypt it and view the plain text.
+
+
+
+Technoliogies used: 
+
+this site utilises:
+ASP.NET
+C#
+HTML
+CSS
+Bootstrap
+
+
+
+
+What I Learned:
+
+I started this course a blank canvas, having rarely coded in my life. Only 5-8  weeks
+later and i can create pages or this quality and useability. Imagine how much I can grow 
+with more time
+
+
+Future scope:
+
+This program could be improved by adding extra encrypting algorithms. This allows 
+for more choices as well as more complex cyphers to encrypt text. Can also be utilised
+validating and securing data across the internet, making certain data more secure.
+
+
+// Process:
+//
+// A B C D E F G H I J K L M
+// N O P Q R S T U V W X Y Z
+//
+//#    Take user input text, convert to char and set all to lower case;
+//##   Use an if statement, if the char is A-M then + 13 ; and is N-Z then -13;
+//###  Catch the results back into an array then iterate them back into a text window.
+//
+//#### Decrypting works the opposite way,
